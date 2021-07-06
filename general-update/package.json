@@ -1,0 +1,11 @@
+{
+    "name": "general-update-patter",
+    "version": "1.0.0",
+    "description": "D3 general update pattern",
+    "license": "ISC",
+    "dependencies": {
+        "d3-collection": "1.0.7",
+        "d3-selection": "2.0.0",
+        "d3-transition": "2.0.0"
+    }
+}
